@@ -1,0 +1,87 @@
+Day 1
+----------------------------------------
+
+The first day of programming this Operating System had a rough start i had to plan on how to boot up the operating system how will the login work what this operating system will have or do for the user.
+
+
+Day 2
+---------------------------------------
+
+I started Working on the boot loader / boot up screen i finished it sort of but it looks really boring. I also worked on the login screen the terminal and the homescreen.
+I finished the shell user interface but there are no commands for it yet there for it doesnt work.
+
+
+Day 3
+---------------------------------------
+
+I finished the login screen so now users can login well scratch that, I got it so only one user can sign in. I am still working on that its a little buggy at the moment as well because im using deprectated API. I also finished the look of the home screen it will be personalized by users some time in the future.
+
+
+Day 4
+---------------------------------------
+
+Now you can open the terminal from the home screen and made it where each screen gets up to the home screen get disposed when not in use.
+
+
+Day 5
+---------------------------------------
+
+I Have a button to execute the commands for the terminal will change that later on but right now it should work. Still haven't added commands well I did sort of am still working on them. Only commands there are is help and get-version. At the end of the day I couldn't get any commands to work so tommorow I will try and get the commands to work.
+
+Day 6
+---------------------------------------
+
+did not get much done
+
+Day 7
+---------------------------------------
+
+I made a simple game for the users to play. It is a raycasting game but it doesn't really have an objective so i might add one in, not really sure at the moment. Also made a seperate folder for the game instead of putting in the main folder.
+
+
+Day 7
+---------------------------------------
+
+Finished a simple version of the notepad.
+
+
+Day 10
+---------------------------------------
+
+I didn't work on this project for a couple days but i made the game map bigger.
+
+Day 11
+---------------------------------------
+
+I finished a Simple paint tool. Also made a simple calculator. The paint tool and calculator aren't the most of my concern so they are going to be on the back burner until I feel like working on them.
+
+
+Day 14
+---------------------------------------
+
+I Moved all images and textures to a res folder.
+
+Day 15
+---------------------------------------
+
+I moved the calculator, the paint tool, and the notepad into an accesories menu.
+
+Day 16
+---------------------------------------
+
+Didnt do much.
+
+Day 17
+---------------------------------------
+
+Didnt do anything.
+
+Day 18
+---------------------------------------
+
+Didnt do anything.
+
+Day 20
+---------------------------------------
+
+I decided to put this project on the back burner for the time being. I am going to be working on the DOOM source code. Even working while working on the DOOM source code I also have a college class I am in right now so I wouldn't have a lot of time to work on this anyways. I will still work on it here and there but right now its going to be on hold.

@@ -1,0 +1,26 @@
+WIP
+-------------------------
+Boot Up class
+Home screen
+Login screen
+terminal
+commands for terminal
+advanced Notepad
+
+Done
+-------------------------
+No Exit button or X button at the top of the screen
+Game finished
+folders for game class
+Simple notepad
+Simple Paint tool
+Simple Calculator
+Move all accesories to their own folder in the home screen
+
+I plan on maybe speeding up the boot up time and making it look atleast a little less bland.
+also plan on making the login screen use any user name and if that user name isn't in a text file or the operating system then it creates a new user
+also plan on making the home screen editable for the user to personalize
+also plan on making a notepad with syntax editor implemented
+make commands actually work
+move commands to there own folder
+maybe more games?????????
