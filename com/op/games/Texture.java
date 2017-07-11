@@ -28,8 +28,8 @@ public class Texture {
 		}
 	}
 	
-	public static Texture wood = new Texture("C:\\Users\\Austin\\Documents\\GitHub\\JavaOptest\\res\\GameAssets\\wood.png", 64);
-	public static Texture brick = new Texture("C:\\Users\\Austin\\Documents\\GitHub\\JavaOptest\\res\\GameAssets\\redbrick.png", 64);
-	public static Texture bluestone = new Texture("C:\\Users\\Austin\\Documents\\GitHub\\JavaOptest\\res\\GameAssets\\bluestone.png", 64);
-	public static Texture stone = new Texture("C:\\Users\\Austin\\Documents\\GitHub\\JavaOptest\\res\\GameAssets\\greystone.png", 64);
+	public static Texture wood = new Texture("res\\GameAssets\\wood.png", 64);
+	public static Texture brick = new Texture("res\\GameAssets\\redbrick.png", 64);
+	public static Texture bluestone = new Texture("res\\GameAssets\\bluestone.png", 64);
+	public static Texture stone = new Texture("res\\GameAssets\\greystone.png", 64);
 }

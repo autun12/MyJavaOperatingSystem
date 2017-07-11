@@ -21,7 +21,7 @@ public class MainScreen extends JFrame implements ActionListener {
 	public Paint paints;
 	public Calculator calculator;
 
-	ImageIcon backgroundImage = new ImageIcon("C:\\Users\\Austin\\Documents\\GitHub\\JavaOptest\\res\\Images\\MainScreenBackground1.jpg");
+	ImageIcon backgroundImage = new ImageIcon("res\\Images\\MainScreenBackground1.jpg");
 
 	public JMenuBar mainMenu = new JMenuBar();
 	public JMenu menu = new JMenu("Main Menu");

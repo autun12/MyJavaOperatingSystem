@@ -18,11 +18,11 @@ public class Login extends JFrame implements ActionListener {
 	public JPasswordField userPassword = new JPasswordField(20);
 	public JButton login = new JButton("Login");
 
-	ImageIcon backgroundImage = new ImageIcon("C:\\Users\\Austin\\Documents\\GitHub\\JavaOptest\\res\\Images\\LoginScreen.jpg");
+	ImageIcon backgroundImage = new ImageIcon("res\\Images\\LoginScreen.jpg");
 	public JLabel background = new JLabel(backgroundImage);
 
 	// public BufferedReader loginReader = new BufferedReader(new InputStreamReader(System.in));
-	public File userInfo = new File("C:\\Users\\Austin\\Documents\\GitHub\\JavaOptest\\OSUserInfo\\UserInfo.txt");
+	public File userInfo = new File("OSUserInfo\\UserInfo.txt");
 
 	public Login() {
 		Container loginField = getContentPane();
@@ -37,8 +37,8 @@ public class Login extends JFrame implements ActionListener {
 	}
 
 	public void actionPerformed(ActionEvent e) {
-		String name;
-		String pass;
+		String name = "test";
+		String pass = "test";
 
 		if(userName.getText().equals(name) && userPassword.getText().equals(pass)) {
 			MainScreen mainScreen = new MainScreen();
